@@ -1,0 +1,16 @@
+numpy>=2.1
+pandas>=1.0
+matplotlib
+seaborn
+soundfile>=0.12.1
+scaper==1.6.4
+JAMS>=0.3.7
+sox>=1.4.1
+tqdm
+pydub>=0.25.1
+pyaudioop>=0.1.0
+imageio-ffmpeg>=0.4.9
+ipywidgets
+jupyter
+
+
